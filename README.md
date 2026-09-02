@@ -40,5 +40,5 @@ A sleek and interactive Flutter coffee ordering app that simulates a real espres
 **Clone the repository:**
 
 ```bash
-git clone https://github.com/CovenantJunior/coffee.git
+git clone https://github.com/TeaTheDeveloper/coffee.git
 cd coffee
